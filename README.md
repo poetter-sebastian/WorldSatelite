@@ -1,4 +1,5 @@
 # WorldSatelite
+![Earth rotation with Starlink satellites](https://github.com/poetter-sebastian/WorldSatelite/blob/main/animation.gif)
 
 Two-line elements: https://www.celestrak.com/NORAD/elements/
 
